@@ -1,5 +1,4 @@
 # C-MLP-neural-network
-MLP Neural Network in C++
 This project implements a Multilayer Perceptron (MLP) neural network in C++. It includes:
 
 Matrix Class: Provides operations like transposition, dot products, and Gaussian elimination.
